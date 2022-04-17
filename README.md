@@ -1,16 +1,32 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**RianAsmara/RianAsmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Rian
 
-Here are some ideas to get you started:
+I'm a Full-stack engineer who loves create project about web. I love using Javascript and used is as main Language in every project i created.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently active contributing as Frontend Web Developer on <a href="https://github.com/LombokAcademy">@lombokacademy</a> to build courses app using TS.
+
+- 🔭 I’m currently working on Health Service.
+- 🌱 Currently learning on React, Flutter and Typescript.
+- 💬 You can ask me about Laravel
+- ⚡ Fun fact: coding in light mode
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/RianAsmara">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianAsmara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RianAsmara&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/rianasmaraputra/">LinkedIn</a>

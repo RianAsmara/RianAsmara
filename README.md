@@ -16,8 +16,6 @@ I'm currently active contributing as Frontend Web Developer on <a href="https://
 
 - 💬 You can ask me about **web development**
 
-- 📫 How to reach me **rputra711@gmail.com**
-
 - ⚡ Fun fact **i'm father of a boy**
 
 ### Tech Stack

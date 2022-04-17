@@ -6,13 +6,11 @@
 
 I'm a Full-stack engineer who loves create project about web. I love using Javascript and used is as main Language in every project i created.
 
-I'm currently active contributing as Frontend Web Developer on <a href="https://github.com/LombokAcademy">@lombokacademy</a> to build courses app using TS.
-
 - 🔭 I’m currently working on **Health Service Section**
 
 - 🌱 I’m currently learning **Machine Learning using Tensorflow and PyTorch**
 
-- 👯 I’m currently active collaborate in [LombokAcademy](https://lombok-academy.web.app/)
+- 👯 I’m currently active collaborate in [LombokAcademy](https://lombok-academy.web.app/) as Frontend Developer using React Typescript
 
 - 💬 You can ask me about **web development**
 

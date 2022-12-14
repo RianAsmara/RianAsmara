@@ -8,7 +8,7 @@ I'm a Full-stack engineer who loves create project about web. I love using Javas
 
 - 🔭 I’m currently working on **Health Service Section**
 
-- 🌱 I’m currently learning **Machine Learning using Tensorflow and PyTorch**
+- 🌱 I’m currently learning **Sevure Coding and Cyber Security**
 
 - 👯 I’m currently active collaborate in [LombokAcademy](https://lombok-academy.web.app/) as Frontend Developer using React Typescript
 
